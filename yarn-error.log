@@ -1,0 +1,32 @@
+Arguments: 
+  /home/office/.nvm/versions/node/v18.14.1/bin/node /usr/bin/yarn add nodemon express mongoose morgan cors faker@5.0
+
+PATH: 
+  /home/office/.nvm/versions/node/v18.14.1/bin:/home/office/.local/bin:/home/office/bin:/opt/jdk-17/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/office/.dotnet/tools
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.14.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:107:26)
+
+npm manifest: 
+  {
+    "name": "node_users-crud",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
